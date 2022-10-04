@@ -2,6 +2,8 @@
 
 ## O que é o git?
 
+Edição do arquivo por Siany aqui
+
 O git é um software que serve para fazer **controle de versão**.
 Isto é, ele serve para que a gente possa guardar as versões diferentes dos nossos arquivos.
 
